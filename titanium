@@ -1,0 +1,1 @@
+titanium clean && tishadow close && tishadow clear && alloy compile --config platform=ios && tishadow run
